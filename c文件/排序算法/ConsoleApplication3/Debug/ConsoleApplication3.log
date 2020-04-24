@@ -1,0 +1,23 @@
+﻿生成启动时间为 2020/4/23 10:21:21。
+     1>项目“G:\dev\c文件\排序算法\ConsoleApplication3\ConsoleApplication3.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\Program Files\VC\bin\CL.exe /c /I"G:\dev\c文件\排序算法\ConsoleApplication3" /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt "主函数.cpp"
+         主函数.cpp
+       Link:
+         D:\Program Files\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"G:\dev\c文件\排序算法\Debug\排序.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"G:\dev\c文件\排序算法\Debug\排序.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"G:\dev\c文件\排序算法\Debug\排序.lib" /MACHINE:X86 "Debug\主函数.obj"
+         "Debug\二叉排序树.obj"
+         "Debug\冒泡排序.obj"
+         "Debug\哈希查询.obj"
+         "Debug\堆排序.obj"
+         "Debug\希尔排序.obj"
+         "Debug\归并排序.obj"
+         "Debug\快速排序.obj"
+         "Debug\插入排序.obj"
+         "Debug\选择排序.obj"
+         Debug\implement.obj
+         ConsoleApplication3.vcxproj -> G:\dev\c文件\排序算法\Debug\排序.exe
+     1>已完成生成项目“G:\dev\c文件\排序算法\ConsoleApplication3\ConsoleApplication3.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.81
