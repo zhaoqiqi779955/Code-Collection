@@ -1,1 +1,0 @@
-double evaluateExpression(char str[]);
